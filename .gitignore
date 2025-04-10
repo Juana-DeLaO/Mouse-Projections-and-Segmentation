@@ -1,0 +1,14 @@
+# Ignore these folders
+Composite_Projections/
+Heights/
+Heights2/
+Masks/
+Outlines/
+Processed_Projections/
+Projection_Test/
+Projections/
+Projections2/
+Segmentation_Masks/
+Segmented_Images/
+Segmented_Images2/
+TIFFs/
