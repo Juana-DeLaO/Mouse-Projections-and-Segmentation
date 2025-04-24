@@ -61,7 +61,7 @@ List of Functions:
 		
 	Segmentation_Measurements.mlx
 		"""
-		Segment an image and calculate the various intensity at various points of the cells.
+		Segment an projection with a given mask and calculate the various intensity at various points of the cells.
 		Creates a figure showing the wanted data and writes it to the given folder.
 		"""
 		
@@ -79,3 +79,7 @@ List of Functions:
 			range:			Range over which data is shown.
 			title:			Title of figure.
 			
+	Batch_Segmentation_Measurements.mlx
+		"""
+		Able to batch segment all suitable projections under a folder using a datastore.
+		"""
